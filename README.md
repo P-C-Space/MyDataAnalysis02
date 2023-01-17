@@ -15,4 +15,4 @@
 * 코드 : 
 ### 데이터 분석
 * EDA :  
-* 데이터 설명 : 
+* 데이터 설명 : https://github.com/P-C-Space/MyDataAnalysis02/blob/master/psychological/data.ipynb
