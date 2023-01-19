@@ -12,7 +12,7 @@
 * 대회 : 심리학 테스트 데이터를 분석하여 "심리 성향을 예측"하는 알고리즘을 개발
 * URL : https://dacon.io/competitions/official/235902/overview/description
 * 내용 : 심리학 테스트의 범주가 넓어짐에 따라 해당 영역의 데이터 분석 방법을 탐구하기 위해 국가 선거 투표자/미투표자의 심리학적 성향을 분석
-* 코드 : 
+* 코드 : https://github.com/P-C-Space/MyDataAnalysis02/blob/master/psychological/fixline12.ipynb
 ### 데이터 분석
 * EDA :  
 * 데이터 설명 : https://github.com/P-C-Space/MyDataAnalysis02/blob/master/psychological/data.ipynb
