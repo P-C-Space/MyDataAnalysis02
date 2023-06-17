@@ -15,3 +15,9 @@
 * 코드 : [HighScore](https://github.com/P-C-Space/MyDataAnalysis02/blob/master/psychological/fixline12.ipynb)
 ### 데이터 분석
 * [데이터 설명](https://github.com/P-C-Space/MyDataAnalysis02/blob/master/psychological/data.ipynb)
+## 개인 프로젝트 3 - 자동차 가격 예측
+* 대회 : 
+* URL :
+* 내용 :
+* 코드 : 
+* EDA :
